@@ -1,0 +1,30 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#section-1{
+    background-image: url('../image/nav\ and\ header.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#footer-01{
+    background-image: url('../image/footer\ 01.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.hero-01{
+    background-image: url('../image/background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#skills{
+    background-color: rgb(81, 7, 73);
+    color: white; 
+}
+#experience{
+    background-image: url('../image/background\ experience.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
