@@ -31,9 +31,6 @@ Check out the live demo of the project [here](https://muhammad-jowel.github.io/O
 - Browse the website to see the available courses and teacher profiles.
 - Use the contact form to send inquiries or messages to the school.
 
-## Screenshot
-
-![Screenshot](path-to-screenshot)
 
 ## License
 
